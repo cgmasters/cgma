@@ -10,20 +10,8 @@ permalink: /privacy.html
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CGMA South Africa - Privacy Policy</title>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700">
-  <style>
-    body {
-      font-family: 'Open Sans', sans-serif;
-      margin: 2rem;
-    }
-    h1, h2 {
-      margin-bottom: 1rem;
-    }
-    p {
-      line-height: 1.5;
-    }
-  </style>
+  
+
 </head>
 <body>
   <h1>Privacy Policy for CGMA South Africa (www.cgma.org.za)</h1>
